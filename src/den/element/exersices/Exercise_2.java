@@ -9,8 +9,6 @@ public class Exercise_2 {
         if(century % 100 != 0)
             century++;
         System.out.println("Текущий век - это  " + century);
-        System.out.println("Тест");
-        System.out.println("Тест");
     }
 
 
