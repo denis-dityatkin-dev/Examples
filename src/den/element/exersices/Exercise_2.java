@@ -8,7 +8,7 @@ public class Exercise_2 {
         int century = year / 100;
         if(century % 100 != 0)
             century++;
-        System.out.println("Текущий век - " + century);
+        System.out.println("Текущий век - это  " + century);
     }
 
 
