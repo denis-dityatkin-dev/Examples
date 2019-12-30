@@ -10,6 +10,7 @@ public class Exercise_2 {
             century++;
         System.out.println("Текущий век - это  " + century);
         System.out.println("Тест");
+        System.out.println("Тест");
     }
 
 
