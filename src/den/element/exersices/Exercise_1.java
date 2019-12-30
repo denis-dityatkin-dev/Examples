@@ -24,7 +24,7 @@ public class Exercise_1 {
             System.out.println("Это 0");
         }
         else {
-            System.out.println("Максимальное число = " + b_1);
+            System.out.println("Максимальное число из 2х = " + b_1);
         }
     }
 }
